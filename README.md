@@ -6,7 +6,7 @@
 
 ## Author
 
-- [⛰️@unharne a.k.a r8ethatthug](https://www.github.com/unharne)
+- [⛰️@unharne a.k.a lonely](https://www.github.com/unharne)
 
 
 ![💝](projectsofi.png)
