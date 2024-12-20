@@ -1,12 +1,12 @@
 
 # Project Sofi🐈‍⬛
 
-💤This is my second project that I've put some effort into. I'm lonely and I decided to create an girl. 💃🌸
+C'est mon deuxième projet dans lequel j'ai mis un peu d'effort. J'étais seul et j'ai décidé de créer ce projet. Pour être honnête, peu m'importe ce que vous dites🌸
 
 
-## Author
+## Auteur
 
-- [🗽@unharne a.k.a lonely](https://www.github.com/unharne)
+- [🗽365](https://www.github.com/unharne)
 
 
 ![💝](projectsofi.png)
